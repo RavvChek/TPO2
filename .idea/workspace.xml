@@ -4,45 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6637aa72-5782-4b89-ae8f-5d36b58f6c72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/log/Ln.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/log/Log2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/log/Log3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/log/Log5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Cos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Cot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Csc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Sec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Sin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/math/trig/Tan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/solver/Solver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/CsvPlotter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/CsvWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log/LnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log/Log2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log/Log3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log/Log5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/system/SystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/CosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/CotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/CscTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/SecTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/SinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/trig/TanTest.java" afterDir="false" />
+    <list default="true" id="6637aa72-5782-4b89-ae8f-5d36b58f6c72" name="Changes" comment="finish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="finish" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -248,12 +216,44 @@
       <workItem from="1742547484732" duration="23024000" />
       <workItem from="1743099479979" duration="19243000" />
       <workItem from="1743202208047" duration="4716000" />
-      <workItem from="1743248738513" duration="7629000" />
+      <workItem from="1743248738513" duration="8297000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <option name="closed" value="true" />
+      <created>1743270151830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743270151830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish">
+      <option name="closed" value="true" />
+      <created>1743270409231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743270409231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
